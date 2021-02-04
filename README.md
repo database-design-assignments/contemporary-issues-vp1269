@@ -1,3 +1,11 @@
 # Contemporary Issues In Data
+In this document, I discuss two articles about DNA databases being used by police departments and the claims made by some that it is an invasion of privacy. I present two opposing viewpoints on this matter.  
+## Article 1
+In Undark magazine's [Do DNA Databases Make Would-Be Criminals Think Twice?](https://undark.org/2019/09/23/dna-database-deter-crime/), it is discussed how having a national forensic DNA database has helped with solving cases where there may not be witnesses or any good leads. DNA databases are more widely used within the criminal justice system now due to how large and efficient they have become.
 
-Welcome! Your writing assignment will be in this file.  See [the instructions](./instructions.md) for more details.
+The article also discusses how DNA databases in a way discourages convicted criminals from reoffending. A study was discussed that looked at two groups of criminals who committed the same crimes. One group has their DNA added to a database, while the other served as a control and it was found that those having information in a DNA database were less likely to reoffend and had better chances of living a crime free life. It is explained that the fear of "getting caught" is higher for those in a DNA database, so it discourages future crimes/ recidivism. 
+
+## Article 2
+In opposition to the claims made in Undark magazine's article on the issue, The New York Times' [N.Y.P.D. Detectives Gave a Boy, 12, a Soda. He Landed in a DNA Database.](https://www.nytimes.com/2019/08/15/nyregion/nypd-dna-database.html) raises concern on the lack of privacy surrounding DNA databases. This article focuses more on New York's DNA database and how it has grown over the years to be very large. However, it contains DNA samples of not only those convicted, but also people merley arrested or brought in for questioning. 
+
+A case is spotlighted requarding a 12 year old boy who was brought in for questioning, never convicted, yet had his DNA imputted into the city's DNA database. There are many people with information in a DNA database who were never arrested, had their charges dismissed, or were simply interviewed and they may have no idea that they are a part of it. Instances such as this raise concerns of violations of privacy and the 4th Amendment since they do not have probable cause to take someone's DNA sample. 
